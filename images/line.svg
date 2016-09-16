@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="4px" height="150px" viewBox="0 0 4 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-White" transform="translate(-720.000000, -1519.000000)" fill="#C09900">
+            <path d="M659.388467,1593.06255 C655.190307,1593.17959 650.988794,1593.16858 646.78661,1593.10256 C646.782585,1593.73579 646.77856,1594.36901 646.775205,1595.00224 C650.535972,1595.07126 654.29741,1595.14529 658.058177,1595.24532 C670.377608,1595.57344 761.561787,1596.0216 796.774534,1595.60845 L796.774534,1592.22525 C761.122382,1592.20724 671.463038,1592.72743 659.388467,1593.06255" id="line" transform="translate(721.774870, 1593.999665) rotate(90.000000) translate(-721.774870, -1593.999665) "></path>
+        </g>
+    </g>
+</svg>
